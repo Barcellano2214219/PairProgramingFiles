@@ -1,3 +1,5 @@
+package Group14_BernabeElevazo;
+
 import java.util.*;
 public class isogram {
     // 7 kyu

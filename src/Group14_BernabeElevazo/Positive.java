@@ -1,3 +1,5 @@
+package Group14_BernabeElevazo;
+
 public class Positive {
     // 8 kyu
     // sum of positives
