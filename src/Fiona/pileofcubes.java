@@ -1,3 +1,6 @@
+/**
+ * this program constructs a building which will be a pile of n cubes.
+ */
 package Fiona;
 
 public class pileofcubes {
