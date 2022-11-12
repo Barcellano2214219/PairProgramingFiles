@@ -1,3 +1,5 @@
+package Group14_BernabeElevazo;
+
 public class PerfectSquare {
     public static long findNextSquare(long sq) {
         long num;

@@ -1,3 +1,5 @@
+package Group14_BernabeElevazo;
+
 public class DivisibleNb {
     // 8 kyu
     // Is n divisible by x and y?

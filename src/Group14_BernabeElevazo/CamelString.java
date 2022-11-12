@@ -1,3 +1,5 @@
+package Group14_BernabeElevazo;
+
 import java.lang.StringBuilder;
 public class CamelString {
     public static String toCamelCase(String s) {
