@@ -1,10 +1,10 @@
-package Barcellano;
-
-import java.util.HashMap;
-
 /*
  * Complete the function scramble(str1, str2) that returns true if a portion of str1 characters can be rearranged to match str2, otherwise returns false.
  */
+
+package Barcellano;
+
+import java.util.HashMap;
 
 public class fiveScramblies {
     public static boolean scramblies(String str1, String str2) {
