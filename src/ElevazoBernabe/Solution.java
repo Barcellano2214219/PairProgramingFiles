@@ -1,8 +1,9 @@
 package ElevazoBernabe;
 
 public class Solution {
-    // 8 kyu
-    // Century From Year
+    /**
+     * <i> </i>
+     */
     public static int century(int number) {
         return (number + 99) / 100;
     }
