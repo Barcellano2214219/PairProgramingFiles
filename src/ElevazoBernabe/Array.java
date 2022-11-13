@@ -3,8 +3,10 @@ package ElevazoBernabe;
 import java.lang.Math;
 
 public class Array {
-    // 8 kyu
-    // Sum of positive
+    /**
+     * <i> You get an array of numbers, and return the sum of all the positive ones.
+     * </i>
+     */
     public static int[] digitize(long n) {
         String string = String.valueOf(n);
         int length = string.length();

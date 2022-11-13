@@ -1,8 +1,10 @@
 package Pereira;
 
-class getmiddle {
+public class getmiddle {
+    /**
+     * <i> Finds the middle part. </i>
+     */
     public static String getMiddle(String word) {
-        // Code goes here!
         int wordCount = word.length();
         int middleWord = wordCount / 2;
 

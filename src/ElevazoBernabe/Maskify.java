@@ -1,8 +1,10 @@
 package ElevazoBernabe;
 
 public class Maskify {
-    // 7kyu
-    // Credit Card Mask
+    /**
+     * <i> You must write a function maskify, which changes all but the last four
+     * characters into #. </i>
+     */
     public static String maskify(String str) {
         if (str.length() < 4)
             return str;
