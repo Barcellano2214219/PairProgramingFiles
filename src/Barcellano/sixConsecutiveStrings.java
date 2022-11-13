@@ -1,7 +1,7 @@
 package Barcellano;
 
 public class sixConsecutiveStrings {
-    /*
+    /**
      * <i> Given an array(list) strarr of strings and an integer k.
      * The task is to return the first longest string consisting of k consecutive
      * strings taken in the array. </i>

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class fourTenPinBowling {
-    /*
+    /**
      * <i> In the game of ten-pin bowling, a player rolls a bowling ball down a lane
      * to knock over pins.
      * There are ten pins set at the end of the bowling lane.

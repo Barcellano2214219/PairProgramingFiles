@@ -3,7 +3,7 @@ package Barcellano;
 import java.util.ArrayList;
 
 public class sixHighestScoringWord {
-    /*
+    /**
      * <i> Given a string of words, the task is to find the highest scoring word.
      * Each letter of a word scores points according to its position in the
      * alphabet: a = 1, b = 2, c = 3 etc.

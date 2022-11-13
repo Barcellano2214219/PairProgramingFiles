@@ -1,7 +1,7 @@
 package Barcellano;
 
 public class sixBitCounting {
-    /*
+    /**
      * <i> Function that takes an integer as input, and returns the number of bits
      * that
      * are equal to one in the binary representation of that number.
