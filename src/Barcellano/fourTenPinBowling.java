@@ -3,6 +3,14 @@ package Barcellano;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * In the game of ten-pin bowling, a player rolls a bowling ball down a lane to knock over pins. 
+ * There are ten pins set at the end of the bowling lane. 
+ * Each player has 10 frames to roll a bowling ball down a lane and knock over as many pins as possible. 
+ * The first nine frames are ended after two rolls or when the player knocks down all the pins. 
+ * The last frame a player will receive an extra roll every time they knock down all ten pins; up to a maximum of three total rolls.
+ */
+
 public class fourTenPinBowling {
     public static int tenPinBowling(String f) {
         Integer score = 0;

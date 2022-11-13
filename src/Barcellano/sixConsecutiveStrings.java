@@ -1,5 +1,10 @@
 package Barcellano;
 
+/*
+ * Given an array(list) strarr of strings and an integer k. 
+ * The task is to return the first longest string consisting of k consecutive strings taken in the array.
+ */
+
 public class sixConsecutiveStrings {
     public static String consecutiveStrings(String[] starr, int k) {
         String finResult = "";
